@@ -1,0 +1,14 @@
+package exercicio;
+import java.util.Scanner;
+public class atividade {
+
+	public static void main(String[] args) {
+	Scanner sc=new Scanner(System.in);
+	int[]x= {30,30,30,30,30,30,30,30,30,30};
+	for(int largura=0;largura<=30;largura++) {
+	System.out.println(x[largura]);
+
+	}
+
+}
+}
